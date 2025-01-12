@@ -275,3 +275,7 @@ progress {
     opacity: 0;
   }
 }
+
+.exam-card .card {
+  font: 1em sans-serif;
+}
